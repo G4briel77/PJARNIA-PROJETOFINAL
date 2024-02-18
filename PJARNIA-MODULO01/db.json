@@ -1,0 +1,91 @@
+{
+    "produtos": [
+        
+         
+              {
+                "id": "1",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Fone de ouvido Headphone ",
+                "joias":"3",
+                "descricao": "O Fone de ouvido Headphone Bluetooth Edifier W820BT 80 Horas é um fone completo que oferece um áudio preciso em seus agudos e graves, com total conforto e equilíbrio que um Over-Ear pode lhe oferecer. Experimente áudio de altíssima qualidade, garantida por meio de uma conexão sem fio com sina"
+              
+              },
+              {
+                "id": "2",
+                "imagem": "../imagens/fone.png",
+                "titulo": "Cadeira Gamer",
+                "joias":"5",
+                "descricao": "Uma boa cadeira para gamer oferece encosto para os braços, evitando sobrecarga nesta região, e deve ser giratória para facilitar os movimentos. O material também deve ser macio e agradável. Para quem deseja máximo conforto, vale optar por modelos com apoio para os pés. "                
+              },
+              {
+                "id": "3",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Alexia echo 5 geração",
+                "joias":"8",
+                "descricao": "Assim como suas concorrentes a Alexa é uma assistente conversacional, capaz de entender contexto até certo ponto e executar tarefas simples, como configurar alarmes, informar a situação do trânsito ou a previsão do tempo, executar uma lista de músicas ou reproduzir podcasts."              },
+              {
+                "id": "4",
+                "imagem": "../imagens/fone.png",
+                "titulo": "Mouse gamer modelo 5kb",
+                "joias":"3",
+                "descricao": "Mouse gamer é um dispositivo desenvolvido para atender às demandas de um usuário mais assíduo. A maioria dos modelos tem design anatômico e ergonômico, possibilitando uma pegada mais firme e confortável."              },
+              {
+                "id": "5",
+                "imagem": "../imagens/fone.png",
+                "titulo": "Teclado redragon",
+                "joias":"3",
+                "descricao": "fone de ouvido não sei das quantas."              
+              },
+              {
+                "id": "6",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Monitor gamer 32 polegadas",
+                "joias":"3",
+                "descricao": "A Mesa Gamer é a peça ideal para quem procura praticidade e beleza para pequenos ambientes, pensada para você que passa seus momentos de lazer jogando, ela comporta tranquilamente dois monitores e prateleiras para seu CPU e organizar pequenos objetos."              
+              },
+              {
+                "id": "7",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Monitor gamer 32 polegadas",
+                "joias":"3",
+                "descricao": "Smartwatch com NFC é um produto muito desejado por usuários que querem fazer pagamentos por aproximação com o relógio. Graças à tecnologia contactless, é possível concluir transações com cartões de débito ou crédito. Os dispositivos também permitem receber dinheiro em carteiras digitais como Google Pay e Samsung Pay."              
+              },
+              {
+                "id": "8",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Monitor gamer 32 polegadas",
+                "joias":"3",
+                "descricao": "O DualShock®4 vem com inovações que proporcionam experiências de jogos mais envolventes, incluindo um sensor de seis eixos de alta sensibilidade, além de um touchpad na parte de cima do controle, que oferece maneiras totalmente novas de jogar e interagir com os jogos."              
+              }
+              
+            ],
+          
+            "resgates": [
+              {
+                "id": "1",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Fone de ouvido Headphone",
+                "joias":"3",
+                "descricao": "O headset é um modelo de fone de ouvido mais robusto que acompanha, ainda, um microfone (fixo, destacável, móvel ou retrátil). Ele pode ser usado por profissionais que precisam falar ao telefone enquanto digitam, por exemplo, mas é especialmente utilizado pelos gamers.",
+                "horario": "14 de fevereiro"
+              },
+              {
+                "id": "8",
+                "imagem": "../imagens/fone.png",
+                "titulo":"Monitor gamer 32 polegadas",
+                "joias":"3",
+                "descricao": "O DualShock®4 vem com inovações que proporcionam experiências de jogos mais envolventes, incluindo um sensor de seis eixos de alta sensibilidade, além de um touchpad na parte de cima do controle, que oferece maneiras totalmente novas de jogar e interagir com os jogos." ,
+                "horario": "30 de fevereiro"
+              }
+            ],
+            "usuarios": [
+              {
+                "id": "1",
+                "login": "admin",
+                "senha": "admin",
+                "nome": "Gabriel Batista",
+                "email": "gabriel.batista1999@hotmail.com"
+              }
+            ]
+          }
+          

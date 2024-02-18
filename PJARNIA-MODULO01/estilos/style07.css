@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200&family=Sora:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Sora", sans-serif;
+}
+
+.menu-suspenso {
+  display: flex;
+  justify-content: space-between;
+  padding: 2em 5em;
+  align-items: center;
+}
+
+.usuario {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+.usuario img {
+  width: 53px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.usuario span {
+  color: #502b6b;
+}
+
+.menu {
+  display: flex;
+  gap: 4em;
+}
+.menu a {
+  color: #000000;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+#container {
+  display: flex;
+  justify-content: space-around;
+  margin: 5em auto;
+  
+}
+.btn-menu {
+  display: flex;
+  align-self: center;
+  border-bottom: 1px solid #eeeeee;
+  width: 382px;
+  gap: 0.5em;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+.icone-perfil {
+  background-color: #502b6b;
+  border-radius: 8px;
+  padding: 0.5em;
+}
+
+.icone-perfil-normal {
+  background-color: #f3e3ff;
+  border-radius: 8px;
+  padding: 0.5em;
+}
+.btn {
+  background: none;
+  outline: none;
+  cursor: pointer;
+  color: #502b6b;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+}
+.linha-abaixo {
+  border-bottom: 1px solid #eeeeee;
+  width: 40%;
+}
+.card-joias {
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 7px 30px 0px #bbc0cd66;
+    max-width: 670px;
+    max-height: 750px;
+    padding: 5em;
+    border-radius: 48px;
+}
+#joias {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: stretch;
+  gap: 3em;
+  padding: 3em;
+}
+
+.card-joias {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
+  .conteudo-joias img {
+    max-width: 55px;
+    max-height: 57px;
+    border: 0.9px solid #eeeeee;
+    border-radius: 14.48px;
+  }
+  .conteudo-joias h5 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .conteudo-joias span {
+    color: #9e9e9e;
+    font-size: 14px;
+  }
+  
+  .conteudo-joias p {
+    color: #616161;
+    font-size: 24px;
+  }

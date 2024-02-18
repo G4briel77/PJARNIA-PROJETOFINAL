@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200&family=Sora:wght@300&display=swap');
+        
+body {
+    font-family: 'Sora', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4rem  4rem;
+}
+
+.usuario {
+    display: flex;
+    align-items: center;
+}
+
+.usuario img {
+    margin-right: 10px;
+    border-radius: 15px;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: 20px; /* Espaçamento entre os itens do menu */
+}
+
+.produto {
+    display: flex;
+    width: 100%; /* Ocupa toda a largura disponível */
+}
+
+#imagem-produto {
+   
+    padding-left: 3rem;
+    
+}
+
+.container-produto{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+
+}
+
+.descricao-produto{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+
+}
+
+#btn{
+    width: 30%;
+    padding: 15px;
+    border: 1px solid #502B6B;
+    border-radius: 20px;
+    font-family: 'Sora', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #502B6B;
+    cursor: pointer;
+}
+#imagem-diamante{
+    padding-left: 10px;
+    
+   
+}
+a{
+    text-decoration: none;
+    padding: 0.5rem;
+    color: rgb(12, 12, 12);
+    font-weight: bold;
+    ;
+
+}
+b{
+    padding-left: 0.3rem;
+}
